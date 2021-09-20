@@ -1,7 +1,7 @@
 ------------------------------------------------
 -- This Source Was Developed By (ABS) @sSs_sSs.--
 --   This Is The Source Channel @zzzii .   --
---                 - LaricA -                 --
+--                 - angel -                 --
 --         -- https://t.me/zzzii --         --
 ------------------------------------------------ 
 DevAbs  = dofile("./libs/redis.lua").connect("127.0.0.1", 6379)
